@@ -13,3 +13,7 @@ wheels/
 
 # environment variables
 .env
+
+# pycharm files
+.idea
+
