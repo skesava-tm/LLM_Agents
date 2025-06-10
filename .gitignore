@@ -17,3 +17,5 @@ wheels/
 # pycharm files
 .idea
 
+# data folder
+data/scenarios_*
